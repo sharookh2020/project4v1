@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="2" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-05-26T23:18:18 IST" name="Suite" finished-at="2020-05-26T23:18:32 IST" duration-ms="13564">
+  <suite started-at="2020-05-27T23:43:43 IST" name="Suite" finished-at="2020-05-27T23:43:55 IST" duration-ms="12213">
     <groups>
     </groups>
-    <test started-at="2020-05-26T23:18:18 IST" name="Test2" finished-at="2020-05-26T23:18:32 IST" duration-ms="13564">
+    <test started-at="2020-05-27T23:43:43 IST" name="Test2" finished-at="2020-05-27T23:43:55 IST" duration-ms="12213">
       <class name="com.project_4.LoginTest">
-        <test-method is-config="true" signature="setUpFramework()[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-26T23:18:18 IST" name="setUpFramework" finished-at="2020-05-26T23:18:18 IST" duration-ms="23" status="PASS">
+        <test-method is-config="true" signature="setUpFramework()[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-27T23:43:43 IST" name="setUpFramework" finished-at="2020-05-27T23:43:43 IST" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpFramework -->
-        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-26T23:18:19 IST" name="loginTest" data-provider="masterDP" finished-at="2020-05-26T23:18:32 IST" duration-ms="13184" status="PASS">
+        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-27T23:43:43 IST" name="loginTest" data-provider="masterDP" finished-at="2020-05-27T23:43:55 IST" duration-ms="11839" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,18 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-26T23:18:19 IST" name="loginTest" data-provider="masterDP" finished-at="2020-05-26T23:18:31 IST" duration-ms="12236" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[{browser=firefox, password=Jhas8js7j0*5!, Runmode=Y, username=jeff}]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginTest -->
-        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-26T23:18:19 IST" name="loginTest" data-provider="masterDP" finished-at="2020-05-26T23:18:19 IST" duration-ms="58" status="SKIP">
+        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-27T23:43:43 IST" name="loginTest" data-provider="masterDP" finished-at="2020-05-27T23:43:43 IST" duration-ms="58" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -70,15 +59,26 @@ at java.base/java.lang.Thread.run(Thread.java:834)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-26T23:18:19 IST" name="tearDown" finished-at="2020-05-26T23:18:19 IST" duration-ms="0" status="PASS">
+        <test-method signature="loginTest(java.util.Hashtable)[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-27T23:43:43 IST" name="loginTest" data-provider="masterDP" finished-at="2020-05-27T23:43:54 IST" duration-ms="11231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{browser=firefox, password=Jhas8js7j0*5!, Runmode=Y, username=jeff}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-27T23:43:43 IST" name="tearDown" finished-at="2020-05-27T23:43:43 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-26T23:18:31 IST" name="tearDown" finished-at="2020-05-26T23:18:31 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-27T23:43:54 IST" name="tearDown" finished-at="2020-05-27T23:43:54 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-26T23:18:32 IST" name="tearDown" finished-at="2020-05-26T23:18:32 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project_4.LoginTest@70cf32e3]" started-at="2020-05-27T23:43:55 IST" name="tearDown" finished-at="2020-05-27T23:43:55 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

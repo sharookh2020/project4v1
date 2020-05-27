@@ -1,7 +1,7 @@
-INFO    2020-05-26 23:18:18,815 [main] com.project_4.testcases.BaseTest  - Config properties file loaded
-INFO    2020-05-26 23:18:19,252 [TestNG-PoolService-1] com.project_4.testcases.BaseTest  - Test directly run browsers on that machine.
-INFO    2020-05-26 23:18:19,257 [TestNG-PoolService-0] com.project_4.testcases.BaseTest  - Test directly run browsers on that machine.
-INFO    2020-05-26 23:18:22,670 [TestNG-PoolService-0] com.project_4.testcases.BaseTest  - Chrome browser launched...!!!
-INFO    2020-05-26 23:18:22,670 [TestNG-PoolService-0] com.project_4.testcases.BaseTest  - Driver Initialized !!!
-INFO    2020-05-26 23:18:23,279 [TestNG-PoolService-1] com.project_4.testcases.BaseTest  - Firefox browser launched...!!!
-INFO    2020-05-26 23:18:23,280 [TestNG-PoolService-1] com.project_4.testcases.BaseTest  - Driver Initialized !!!
+INFO    2020-05-27 23:43:43,086 [main] com.project_4.testcases.BaseTest  - Config properties file loaded
+INFO    2020-05-27 23:43:43,512 [TestNG-PoolService-0] com.project_4.testcases.BaseTest  - Test directly run browsers on that machine.
+INFO    2020-05-27 23:43:43,517 [TestNG-PoolService-1] com.project_4.testcases.BaseTest  - Test directly run browsers on that machine.
+INFO    2020-05-27 23:43:46,919 [TestNG-PoolService-0] com.project_4.testcases.BaseTest  - Chrome browser launched...!!!
+INFO    2020-05-27 23:43:46,920 [TestNG-PoolService-0] com.project_4.testcases.BaseTest  - Driver Initialized !!!
+INFO    2020-05-27 23:43:47,543 [TestNG-PoolService-1] com.project_4.testcases.BaseTest  - Firefox browser launched...!!!
+INFO    2020-05-27 23:43:47,543 [TestNG-PoolService-1] com.project_4.testcases.BaseTest  - Driver Initialized !!!
