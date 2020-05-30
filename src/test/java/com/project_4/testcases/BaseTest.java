@@ -121,8 +121,8 @@ if(System.getenv("ExecutionType")!=null && System.getenv("ExecutionType").equals
 	 * If grid=true, test run on Grid.
 	 * If grid=false, test directly run browsers on that machine
 	 */
-			//grid=true;
-			grid=false;
+			grid=true;
+			//grid=false;
 
 			
 		}
